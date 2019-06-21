@@ -43,7 +43,7 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 
 ---?image=assets/img/presenter.jpg
 
-@snap[north span-100 h2-white]
+@snap[west span-100 h2-white]
 ## Now It's Your Turn
 @snapend
 
